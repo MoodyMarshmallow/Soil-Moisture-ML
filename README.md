@@ -1,8 +1,8 @@
-# What this is
+# What This is
 
 I wanted to use the data I collected with my [Environmental Data Collection System](https://github.com/MoodyMarshmallow/Environmental-Data-Collection-System) to train a machine-learning model to predict soil moisture values in high temporal resolution. In the process, I hoped to gain some practical knowledge on how to implement machine learning models.
 
-# What the code does
+# What The Code Does
 
 ![image](flowchart-of-code.png)
 <br/><br/>
